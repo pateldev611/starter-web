@@ -7,5 +7,12 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ### Introduction 
+This repository is for showing how Git and GitHub work
 
-### Deployment 
+
+
+### Deployment This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work
