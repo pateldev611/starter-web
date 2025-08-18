@@ -7,6 +7,7 @@ This repository is for showing how Git and GitHub work
 Adding text for rebasing
 
 Sample website with plenty of files for demos
+rebase conflict
 
 ### Introduction 
 This repository is for showing how Git and GitHub work
